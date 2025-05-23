@@ -30,6 +30,23 @@ theme:
         name: Switch to system preference
       primary: teal 
       accent: amber
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path 
+    - navigation.indexes 
+    - navigation.sections
+    
+
+nav: 
+  - Home: index.md
+  - About: about.md 
+  - Resume: 
+    - resume section/index.md 
+    - First resume: resume section/resume1.md 
+
+
     
 
 
