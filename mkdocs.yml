@@ -42,9 +42,9 @@ theme:
 nav: 
   - Home: index.md
   - About: about.md 
-  - Resume: 
-    - resume section/index.md 
-    - First resume: resume section/resume1.md 
+  - Portfolio: 
+    - Portfolio/index.md 
+    - College Surplus Sale: Portfolio/college surplus sale.md 
 
 
     
