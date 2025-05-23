@@ -41,4 +41,5 @@ It was at the second table, the cash register, where I found the following instr
 | | Original | Modified | Percent Decrease |
 | -------| :-------: | :----:| :-----:|
 | Word Count | 323 | 218 | 32% |
-| Characters (w/o spaces) | 1240 | 902 | 27% | 
+| Characters (w/o spaces) | 1240 | 902 | 27% |
+| Avg Sentence Length | 15.3 | 9.6 | 37% | 
