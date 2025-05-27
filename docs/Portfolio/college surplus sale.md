@@ -4,7 +4,7 @@
 
 When I arrived to my local college's surplus sale shortly after they opened, I didn't see any instructions or signs to indicate how the sale was setup or how it worked. After wandering around the warehouse to get my bearings I had made the following observations: 
 
-* There are 3 tables being staffed by employees and two people wearing high visability vests and carrying clip boards
+* There are 3 tables being staffed by employees and two people wearing high visibility vests and carrying clip boards
 * Some shelving racks have a sign indicating the items must be bid on, but most items don't have bid numbers
 * Some items do not have any signage, bid numbers, or price tags 
 
@@ -26,9 +26,9 @@ It was at the second table, the cash register, where I found the following instr
 1. Add structure to clearly indicate actions needed to complete bid 
 1. Clarify what a "blue number" means
 
-1. Increase inclusivness by removing unnecessary gender description 
+1. Increase inclusiveness by removing unnecessary gender description 
 
-1. Move special instructions to optomize flow and callouts 
+1. Move special instructions to optimize flow and callouts 
   
 1. Eliminate timing contradiction between the first and last paragraphs
 1. Reduce word count and sentence length 
