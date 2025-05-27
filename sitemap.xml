@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://mydomain.org/mysite/</loc>
+         <lastmod>2025-05-27</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Contact/</loc>
+         <lastmod>2025-05-27</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Personal/</loc>
+         <lastmod>2025-05-27</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Resume/</loc>
+         <lastmod>2025-05-27</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Portfolio/</loc>
+         <lastmod>2025-05-27</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Portfolio/college%20surplus%20sale/</loc>
+         <lastmod>2025-05-27</lastmod>
+    </url>
+</urlset>
