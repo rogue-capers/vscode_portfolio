@@ -40,8 +40,7 @@ theme:
     
 
 nav: 
-  - Home: index.md
-  - About: about.md 
+  - Home: index.md   
   - Portfolio: 
     - Portfolio/index.md 
     - College Surplus Sale: Portfolio/college surplus sale.md 
