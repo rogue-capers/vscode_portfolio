@@ -41,6 +41,53 @@ Oct 2019 - Nov 2021
 
 -------
 
-# Technical Communication Skills 
+## Technical Communication Skills 
+
+### Tools 
+
+| Writing | Photo | Design | Project Management | 
+| :---: | :---: | :---: |  :---: |
+| Markdown | Snipping Tool | Meshmixer | Miro |
+| MS Office | Canva | TinkerCAD | Trello | 
+| Google Docs | Digital & Analog Photography | | Google Sheets | 
+
+
+### Technology 
+
+| Version Control | Sharing | Publishing | 
+|  :---: |  :---: |  :---: |
+| Git | GitHub | MkDocs | 
+| Custom File Naming Convention | SharePoint | MasterControl | 
+
+ 
+
+
+
+---
+
+## Education 
+
+**Bachelor of Arts in Biology** 
+
+[*Minnesota State University Moorhead*](https://www.mnstate.edu/) 
+
+2014 
+
+---
+
+## Other Employment History 
+
+**Direct Support Professional**
+
+[*CHI Friendship*](https://chifriendship.com/)
+
+----
+
+**Quality Control Supervisor** 
+
+[*Sungold Foods Inc.*](https://www.redriv.com/roasting-and-packaging/products/)
+
+
+
 
 
