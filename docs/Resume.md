@@ -27,7 +27,7 @@ Nov 2021 - Jan 2025
 
 [*Vance Thompson Vision*](https://www.vancethompsonvision.com/)
 
-Clincial Research Department 
+Clinical Research Department 
 
 Oct 2019 - Nov 2021
 

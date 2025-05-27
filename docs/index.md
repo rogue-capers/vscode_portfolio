@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hi, I'm Jake Hutchison.
 
-## Commands
+ I'm a technical writer with experience in highly regulated, fast-moving, impactful industries. I am passionate about combining technical data, SME input, client input, and user feedback within a regulated environment into concise and effective production documentation. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+ My professional technical writing experience has been in  [human health & science](Resume.md#experience). I balance that experience with [mechanical and other personal projects](Portfolio/index.md#portfolio). When I'm not writing, you'll find me practicing one of my [exploration disciplines](Personal.md#personal). 
 
-## Project layout
+ If you have any questions or would like to talk more please feel free to [reach out](Contact.md#contact)! 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+

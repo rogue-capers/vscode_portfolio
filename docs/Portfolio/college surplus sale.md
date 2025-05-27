@@ -43,4 +43,4 @@ It was at the second table, the cash register, where I found the following instr
 | Word Count | 323 | 218 | 32% |
 | Avg Sentence Length | 15.3 | 9.6 | 37% | 
 
-While I was able to improve the instructions by applying technical writing best practices, I have not solved the first order problem of easily obtaining the instructions. For this I would suggest the organizers dedicate a podium at the entrance with two clearly labeled bins: Bid Sheets & Instructions. 
+While I was able to improve the instructions by applying technical writing best practices, I have not solved the first problem of easily obtaining the instructions. For this I would suggest the organizers dedicate a podium at the entrance with two clearly labeled bins: Bid Sheets & Instructions. 
