@@ -43,7 +43,7 @@ nav:
   - Home: index.md   
   - Portfolio: 
     - Portfolio/index.md 
-    - College Surplus Sale: Portfolio/college surplus sale.md 
+    - College Surplus Sale: Portfolio/College Surplus Sale/college surplus sale.md 
     - Microscopy: Portfolio/Microscopy.md 
   - Resume: Resume.md 
   - Personal: Personal.md
